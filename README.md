@@ -91,3 +91,5 @@ In this challenge we used the machine learning methods to predict credit risk. W
 ![Easy Ensemble AdaBoost classification report](https://user-images.githubusercontent.com/95899763/166189846-6b130917-31eb-4073-a11a-26ee196057ca.PNG)
 
 # Summary
+
+After reviewing the results we can determine that the best model to predict high risk is the Easy Ensemble Classification model. The accuracy score is the highest with 92.3%.
