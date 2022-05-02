@@ -66,5 +66,17 @@ In this challenge we used the machine learning methods to predict credit risk. W
 
 ![SMOTEENN clasiification report](https://user-images.githubusercontent.com/95899763/166189145-1d8e45ed-13ca-4a8c-9175-5393577f2478.PNG)
 
+**Balanced Random Forest Classifier**
+
+- Accuracy Score: 0.6481524721265542
+- Preciscion High Risk: 56%
+- Preciscion Low Risk: 100%
+- Recall High Risk: 30%
+- Recall Low Risk: 100%
+
+![Balanced Random Forest confusion matrix](https://user-images.githubusercontent.com/95899763/166189444-6e68c58c-d45c-4de1-8eba-058ee582647a.PNG)
+
+![Balanced Random Forest classification report](https://user-images.githubusercontent.com/95899763/166189476-2b2dd1d1-6537-4411-9a9b-2b386ba2f608.PNG)
+
 
 # Summary
