@@ -41,4 +41,18 @@ In this challenge we used the machine learning methods to predict credit risk. W
 
 ![SMOTE Oversampling classification report](https://user-images.githubusercontent.com/95899763/166187341-e7264ceb-5f79-41d8-ba5e-7b9af5670251.PNG)
 
+**Cluster Centroid Undersampling*
+
+- Accuracy Score: 0.4362685265911072
+- Preciscion High Risk: 0%
+- Preciscion Low Risk: 100%
+- Recall High Risk: 61%
+- Recall Low Risk: 44%
+
+![Cluster Undersampling accuracy](https://user-images.githubusercontent.com/95899763/166188079-b0f87a8c-f883-4389-ad1f-ce263a56929b.PNG)
+
+![Cluster undersdampling confusion matrix](https://user-images.githubusercontent.com/95899763/166188097-53cff27c-c325-4d5f-b1b7-c2b83a6704ae.PNG)
+
+![Cluster undersampling classification report](https://user-images.githubusercontent.com/95899763/166188126-6664f2ec-f2d0-47d8-9c1b-7450afdb7158.PNG)
+
 # Summary
