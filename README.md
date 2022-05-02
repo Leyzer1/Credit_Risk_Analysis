@@ -78,5 +78,16 @@ In this challenge we used the machine learning methods to predict credit risk. W
 
 ![Balanced Random Forest classification report](https://user-images.githubusercontent.com/95899763/166189476-2b2dd1d1-6537-4411-9a9b-2b386ba2f608.PNG)
 
+**Easy Ensemble AdaBoost Classifier**
+
+- Accuracy Score: 0.9229904850855175
+- Preciscion High Risk: 6%
+- Preciscion Low Risk: 100%
+- Recall High Risk: 91%
+- Recall Low Risk: 94%
+
+![Easy Ensemble AdaBoost confusion matrix](https://user-images.githubusercontent.com/95899763/166189814-c2333f2a-99d2-4408-9493-a0406592c132.PNG)
+
+![Easy Ensemble AdaBoost classification report](https://user-images.githubusercontent.com/95899763/166189846-6b130917-31eb-4073-a11a-26ee196057ca.PNG)
 
 # Summary
