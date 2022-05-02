@@ -27,4 +27,18 @@ In this challenge we used the machine learning methods to predict credit risk. W
 
 ![Random Oversampling Classification Report](https://user-images.githubusercontent.com/95899763/166186764-1f512e03-45c8-45ec-a9f2-24876253e4f9.PNG)
 
+**SMOTE Oversampling**
+
+- Accuracy Score: 0.6921825050857309
+- Preciscion High Risk: 1%
+- Preciscion Low Risk: 100%
+- Recall High Risk: 68%
+- Recall Low Risk: 69%
+
+![SMOTE Oversampling accuracy](https://user-images.githubusercontent.com/95899763/166187306-924c43c7-7c72-41ba-bd27-848d173be7bf.PNG)
+
+![SMOTE Oversampling Confusion matrix](https://user-images.githubusercontent.com/95899763/166187323-bb59fe43-8aac-4c00-8f97-6a713870dd32.PNG)
+
+![SMOTE Oversampling classification report](https://user-images.githubusercontent.com/95899763/166187341-e7264ceb-5f79-41d8-ba5e-7b9af5670251.PNG)
+
 # Summary
