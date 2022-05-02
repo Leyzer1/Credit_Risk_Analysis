@@ -55,4 +55,16 @@ In this challenge we used the machine learning methods to predict credit risk. W
 
 ![Cluster undersampling classification report](https://user-images.githubusercontent.com/95899763/166188126-6664f2ec-f2d0-47d8-9c1b-7450afdb7158.PNG)
 
+**SMOTEENN**
+
+- Preciscion High Risk: 1%
+- Preciscion Low Risk: 100%
+- Recall High Risk: 77%
+- Recall Low Risk: 55%
+
+![SMOTEENN confusion matrix](https://user-images.githubusercontent.com/95899763/166189116-fd878463-68ec-4826-9675-25d4c35c6a9f.PNG)
+
+![SMOTEENN clasiification report](https://user-images.githubusercontent.com/95899763/166189145-1d8e45ed-13ca-4a8c-9175-5393577f2478.PNG)
+
+
 # Summary
